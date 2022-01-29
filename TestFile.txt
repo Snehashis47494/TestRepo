@@ -1,4 +1,2 @@
 Change 1 
 Change2
-This is an idea on idea branch
-New commit on master branch
